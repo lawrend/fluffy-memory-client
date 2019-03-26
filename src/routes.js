@@ -12,7 +12,7 @@ class Routes extends Component {
     return (
       <Switch>
         <Route exact path="/" component={Home} />
-                <Route component={ErrorRoute} />
+        <Route component={ErrorRoute} />
       </Switch>
       )
 }
