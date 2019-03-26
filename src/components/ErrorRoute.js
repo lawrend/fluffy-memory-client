@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default props => (
-  <div>Oops! Can't find what you're looking for </div>
+  <div><h2>Oops! Can't find what you're looking for</h2></div>
 )
